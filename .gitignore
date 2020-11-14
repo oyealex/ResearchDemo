@@ -1,0 +1,6 @@
+log/
+.idea/
+target/
+out/
+Server/Server.mv.db
+*.mv.db
